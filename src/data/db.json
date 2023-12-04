@@ -360,5 +360,14 @@
       "category":"home-decoration",
       "thumbnail":"https://i.dummyjson.com/data/products/30/thumbnail.jpg"
     }
+  ],
+  "users": [
+    {
+        "id":1,
+        "name": "Whitney Stevenson",
+        "email": "whitney@gmail.com",
+        "password": "12345",
+        "urlImage": "https://cdn-icons-png.flaticon.com/512/3607/3607444.png"
+    }
   ]
 }
